@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eder Pereira</h1>
 <h3 align="center">I'm 39 years old, I live in São Paulo, Brazil, I like programming, watching movies, running</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript** and **Angular**
 
 - 📫 How to reach me **epereira1984@uol.com.br**
 
